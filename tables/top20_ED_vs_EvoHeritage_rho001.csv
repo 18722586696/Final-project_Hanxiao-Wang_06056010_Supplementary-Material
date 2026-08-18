@@ -1,0 +1,21 @@
+"species","Rank","species_tree.x","ED_github","Rank_rho001","species_tree.y","EvoHeritage_rho001","Ancestral_EvoHeritage","rank_change"
+"Platyrhinoidis triseriata",2,"Platyrhinoidis_triseriata",144.289532417262,1,"Platyrhinoidis_triseriata",89.4728261702302,102.552385522056,-1
+"Zanobatus schoenleinii",1,"Zanobatus_schoenleinii",192.517977687057,2,"Zanobatus_schoenleinii",88.3519799857199,99.3839193381382,1
+"Hypnos monopterygius",3,"Hypnos_monopterygius",142.750439551048,3,"Hypnos_monopterygius",81.2845323140636,95.2863200968071,0
+"Mitsukurina owstoni",5,"Mitsukurina_owstoni",138.616999110635,4,"Mitsukurina_owstoni",78.5413479336943,94.4406587101778,-1
+"Hexatrygon bickelli",4,"Hexatrygon_bickelli",138.947657969357,5,"Hexatrygon_bickelli",77.5156469015006,100.855059090763,1
+"Anoxypristis cuspidata",6,"Anoxypristis_cuspidata",125.9208433425,6,"Anoxypristis_cuspidata",76.2926669389166,101.003306409318,0
+"Brachaelurus waddi",14,"Brachaelurus_waddi",106.983319344262,7,"Brachaelurus_waddi",75.2655147459156,105.043758573812,-7
+"Heterodontus francisci",7,"Heterodontus_francisci",120.577239087092,8,"Heterodontus_francisci",75.1212819474409,96.4409615595442,1
+"Zapteryx brevirostris",16,"Zapteryx_brevirostris",104.399019047004,9,"Zapteryx_brevirostris",74.306361902016,102.91322649945,-7
+"Heterodontus mexicanus",17,"Heterodontus_mexicanus",103.119928327092,10,"Heterodontus_mexicanus",74.1447794210465,99.3559265452308,-7
+"Carcharias taurus",9,"Carcharias_taurus",110.368168349206,11,"Carcharias_taurus",74.0853100527746,108.063402547287,2
+"Brachaelurus colcloughi",13,"Brachaelurus_colcloughi",106.983319344262,12,"Brachaelurus_colcloughi",74.0786514692532,97.0011299699592,-1
+"Trygonorrhina melaleuca",22,"Trygonorrhina_melaleuca",99.2866774753372,13,"Trygonorrhina_melaleuca",73.8998069265917,102.088308326469,-9
+"Notorynchus cepedianus",11,"Notorynchus_cepedianus",108.122896296644,14,"Notorynchus_cepedianus",73.807576963101,103.210691704474,3
+"Pseudoginglymostoma brevicaudatum",19,"Pseudoginglymostoma_brevicaudatum",102.561570455691,15,"Pseudoginglymostoma_brevicaudatum",72.701209455674,96.5784923128254,-4
+"Rhina ancylostoma",15,"Rhina_ancylostoma",106.454345188761,16,"Rhina_ancylostoma",72.5244037826791,95.3900305665705,1
+"Alopias superciliosus",10,"Alopias_superciliosus",108.130378747778,17,"Alopias_superciliosus",72.0411874225195,96.2136675937146,7
+"Plesiobatis daviesi",8,"Plesiobatis_daviesi",119.351624653795,18,"Plesiobatis_daviesi",71.5812740765351,97.3925506619285,10
+"Dalatias licha",24,"Dalatias_licha",98.6090018008094,19,"Dalatias_licha",69.8873621400358,97.3129102687169,-5
+"Pristis pristis",21,"Pristis_pristis",99.6509217549998,20,"Pristis_pristis",69.8803515542807,101.599383981333,-1

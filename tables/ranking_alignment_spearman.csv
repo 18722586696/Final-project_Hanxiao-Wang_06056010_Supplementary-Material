@@ -1,0 +1,7 @@
+"comparison","spearman_correlation"
+"ED vs EH min.age 0",0.989180287713129
+"ED vs EH min.age 66",0.786301003936132
+"ED vs EH min.age 145",0.622299512584249
+"EH min.age 0 vs min.age 66",0.725831208254203
+"EH min.age 0 vs min.age 145",0.559099948080991
+"EH min.age 66 vs min.age 145",0.86549696966236
